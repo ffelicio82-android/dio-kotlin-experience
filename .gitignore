@@ -24,3 +24,11 @@ hs_err_pid*
 replay_pid*
 
 .DS_Store
+
+# Project_Default.xml
+# KotlinJavaRuntime.xml
+# kotlinc.xml
+
+inspectionProfiles
+libraries
+kotlinc.xml
