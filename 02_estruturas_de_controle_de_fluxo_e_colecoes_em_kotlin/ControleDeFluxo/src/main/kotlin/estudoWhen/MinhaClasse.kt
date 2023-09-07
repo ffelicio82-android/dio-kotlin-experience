@@ -1,0 +1,3 @@
+package estudoWhen
+
+class MinhaClasse

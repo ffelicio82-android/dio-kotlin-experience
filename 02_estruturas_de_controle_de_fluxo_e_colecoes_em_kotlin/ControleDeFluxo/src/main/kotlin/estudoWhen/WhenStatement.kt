@@ -1,4 +1,4 @@
-import br.com.teste.fernando.MinhaClasse
+package estudoWhen
 
 /*
  * When
